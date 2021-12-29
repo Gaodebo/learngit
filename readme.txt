@@ -5,3 +5,4 @@ github is good
 Creating a new branch is quick AND simple.
 git jim
 git main status
+version v.1.0
