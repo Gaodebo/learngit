@@ -3,4 +3,5 @@ git is free software distributed under the GPL.
 git is good
 github is good
 Creating a new branch is quick AND simple.
-git jim(git is fixed)
+git jim
+git main status
